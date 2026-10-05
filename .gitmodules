@@ -2,3 +2,7 @@
 	path = mobile
 	url = https://github.com/tganeev/ClinicApp.git
 	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MagnusCat/hakaton-frontend
+	branch = main
