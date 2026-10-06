@@ -6,3 +6,7 @@
 	path = frontend
 	url = https://github.com/MagnusCat/hakaton-frontend
 	branch = main
+[submodule "ai_model"]
+	path = ai_model
+	url = https://github.com/haitaks/clinic_lm.git
+	branch = main
