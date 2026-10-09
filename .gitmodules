@@ -10,3 +10,7 @@
 	path = ai_model
 	url = https://github.com/haitaks/clinic_lm.git
 	branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Draudem/clinic_appointment_app.git
+	branch = main
